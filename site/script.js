@@ -1,5 +1,6 @@
 window.onload = function (){
-	function sayHello(){
-		console.log("HEJ");
-	};
+	
 }
+function sayHello(){
+	console.log("HEJ");
+};
