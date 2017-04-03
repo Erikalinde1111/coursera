@@ -1,6 +1,7 @@
 window.onload = function (){
-	sayHello();
+	//sayHello();
 }
 function sayHello(){
 	console.log("HEJ");
+	console.log(document.getElemenById("name"));
 };
